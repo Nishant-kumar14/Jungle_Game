@@ -24,13 +24,14 @@ Welcome to the Jungle Game, an interactive adventure where you must make decisio
 Screenshots
 
 ## Screenshot 1: Image showing the initial decision-making screen
-![image](https://github.com/user-attachments/assets/4fb9b8b0-c9ca-4b68-b411-a0081970c0df)
+![Screenshot 2024-12-15 201311](https://github.com/user-attachments/assets/4ac84faa-05f2-428e-8e8e-092f03772522)
+
 
 ## Screenshot 2: Image showing a scenario of danger after a wrong choice
-![image](https://github.com/user-attachments/assets/18b91844-709a-4205-a8e8-3627140277fd)
+![Screenshot 2024-12-15 201641](https://github.com/user-attachments/assets/27bd0a39-43a8-4c28-b627-0bf77bcbc36e)
 
 ## Screenshot 3: Image showing the 'You Win' screen after successfully navigating the jungle
-![image](https://github.com/user-attachments/assets/3ada7cbf-36a1-4034-b9d4-f9e7fea51d20)
+![Screenshot 2024-12-15 202249](https://github.com/user-attachments/assets/e4587e56-a0b4-4b17-bb8a-baa0975bf17a)
 
 # Game Controls
 Use the keyboard to input your choice when prompted (press 1 or 2).
